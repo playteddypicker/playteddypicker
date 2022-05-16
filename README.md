@@ -1,10 +1,8 @@
 ![boring](https://i.ytimg.com/vi/y5iXdP6jXpY/mqdefault.jpg)  
-아유..하기싫어
-====
-
-프로필 언젠가 꾸밀예정.. 언젠가는  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playteddypicker&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playteddypicker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+프로필 언젠가 꾸밀예정.. 언젠가는  
 <!--
 **playteddypicker/playteddypicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
