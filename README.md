@@ -51,6 +51,6 @@
 ## 게임~~(정말 가끔 함)
 
 <a margin="10" href="https://www.warframe.com" target="_blank"><img margin="10px" height="40" src="https://n9e5v4d8.ssl.hwcdn.net/images/longlanding/logo-white.png" alt="warframe"></a>
-<a margin="10" href="https://store.steampowered.com/app/1245620/ELDEN_RING/" target="_blank"><img margin="10px" height="40" src="https://www.gadgetcrutches.com/wp-content/uploads/2021/12/Elden-Ring-logo.jpg" alt="elden_ring"></a>
+<a margin="10" href="https://en.bandainamcoent.eu/elden-ring/elden-ring" target="_blank"><img margin="10px" height="40" src="https://p325k7wa.twic.pics/high/elden-ring/elden-ring/00-page-setup/eldenring_new.png?twic=v1/resize=1600/step=10/quality=80" alt="elden_ring"></a>
 <a margin="10" href="https://bluearchive.nexon.com" target="_blank"><img margin="10px" height="40" src="https://image.librewiki.net/5/5b/Pop_logo.png" alt="mollu"></a>
 <a margin="10" href="https://www.arknights.kr/" target="_blank"><img margin="10px" height="40" src="https://webusstatic.yo-star.com/ark_kr_web/mobile/img/logo.d26fe41b.png" alt="arknights"></a>
