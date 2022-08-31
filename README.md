@@ -46,7 +46,7 @@
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 </div>
 
-누구야.. 힙스터언어 한다고 좋아하다가 매운맛에 고통받아 정신못차리는 코딩뉴비가..
+힙스터언어 한다고 좋아하다가 매운맛에 고통받아 정신못차리는 코딩뉴비 컽!!
 
 ## 게임~~(정말 가끔 함)
 
