@@ -1,8 +1,5 @@
 
 ## 너무 귀찮아..
-<a href="https://www.instagram.com/play_teddypicker_/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 
 ## 이새끼 누구임 (who is this guy)
 - 응애개발자인데 진로 뭐할지 몰라서 걍 해보고싶은거 다 해보는중..
