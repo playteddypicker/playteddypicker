@@ -1,7 +1,8 @@
 
-## 너무 귀찮아..
+# 아유.. 하기싫어
 
 ![아유..하기싫어](https://w.namu.la/s/e91fdba0ff20c0c8673365a039e2f2c73e2e923fccb1a21ba7af4ae587cbd62d503d86076ebdaf941ad98b2e18e4bec5d163fc7997d26a0df4563cee3e93ba26f4289e6ce246579a77cb5e63a535a8de19dcc2c8c8697eab827f38e447b68804)
+<a margin="20" href="https://youtu.be/ZEpcRSivu-E" target="_blank"><img margin="20px" height="80" src="https://media.bunjang.co.kr/product/158753670_1_1625837846_w360.jpg" alt="김찬호"></a>
 
 ## 이새끼 누구임 (who is this guy)
 - 응애개발자인데 진로 뭐할지 몰라서 걍 해보고싶은거 다 해보는중..
@@ -16,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playteddypicker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=playteddypicker)](https://solved.ac/playteddypicker)
 
-누구야.. 힙스터언어 한다고 좋아하다가 매운맛에 고통받아 정신못차리는 코딩뉴비가..
+
 
 ## 배우고있는거 & 곧 배울거
 
@@ -45,6 +46,7 @@
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 </div>
 
+누구야.. 힙스터언어 한다고 좋아하다가 매운맛에 고통받아 정신못차리는 코딩뉴비가..
 
 ## 게임~~(정말 가끔 함)
 
