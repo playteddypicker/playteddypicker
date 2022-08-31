@@ -1,10 +1,12 @@
 
 ## 너무 귀찮아..
 
+![아유..하기싫어](https://w.namu.la/s/e91fdba0ff20c0c8673365a039e2f2c73e2e923fccb1a21ba7af4ae587cbd62d503d86076ebdaf941ad98b2e18e4bec5d163fc7997d26a0df4563cee3e93ba26f4289e6ce246579a77cb5e63a535a8de19dcc2c8c8697eab827f38e447b68804)
+
 ## 이새끼 누구임 (who is this guy)
 - 응애개발자인데 진로 뭐할지 몰라서 걍 해보고싶은거 다 해보는중..
   - NOOB Developer who doesn't know what to do, so trying everything what I want to do.  
-- 서강대 컴퓨터공학과 재학중, 심리학 복전 예정 
+- 서강대 컴퓨터공학과 1학년 재학중, 심리학 복전 예정 
   - Majoring in **Computer Science** & minoring in **Psychology** @ Sogang Univ.  
 - Team Cluster에서 수능 물리학1, 화학2 컨텐츠 만들어요. 주변에 수능준비하는 쉄생들 있으면 [책](https://atom.ac/books/9700)[하고](https://atom.ac/books/9927) [모의고사](https://atom.ac/books/9917) 많이많이 사주샘.
   - Making CSAT contents of **Physics I, Chemistry II** @ **Team Cluster**. 
