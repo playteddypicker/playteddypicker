@@ -42,7 +42,7 @@
 <a margin="10" href="https://www.jetbrains.com/idea/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij IDEA"></a>
 <a margin="10" href="https://neovim.io/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/984px-Neovim-mark.svg.png?20150131093814" alt="neovim"></a>
 
-<a margin="10" href="https://sanity.io" target="_blank"><img margin="10px" height="40" src="https://d33wubrfki0l68.cloudfront.net/4112b407ce93d899a0e499bbefa9fc172b11685e/8c3e9/ko/meta/tauri_logo_dark.svg" alt="tauri"></a>
+<a margin="10" href="https://tauri.app/" target="_blank"><img margin="10px" height="40" src="https://d33wubrfki0l68.cloudfront.net/4112b407ce93d899a0e499bbefa9fc172b11685e/8c3e9/ko/meta/tauri_logo_dark.svg" alt="tauri"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 </div>
 
