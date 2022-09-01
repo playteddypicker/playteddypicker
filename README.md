@@ -25,8 +25,8 @@
 <br />
 
 <a margin="10" href="https://www.rust-lang.org/" target="_blank"><img margin="10px" height="40" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust"></a>
-<a margin="10" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="rust"></a>
-<a margin="10" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua"></a>
+<a margin="10" href="https://docs.microsoft.com/ko-kr/cpp/?view=msvc-170" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp"></a>
+<a margin="10" href="https://www.lua.org/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua"></a>
 
 
 
