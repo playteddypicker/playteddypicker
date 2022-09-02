@@ -28,6 +28,7 @@
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"></a>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"></a>
 <a margin="10" href="https://neovim.io/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/984px-Neovim-mark.svg.png?20150131093814" alt="neovim"></a>
+<br />
 <a margin="10" href="https://www.warframe.com" target="_blank"><img margin="10px" height="40" src="https://n9e5v4d8.ssl.hwcdn.net/images/longlanding/logo-white.png" alt="warframe"></a>
 <a margin="10" href="https://en.bandainamcoent.eu/elden-ring/elden-ring" target="_blank"><img margin="10px" height="40" src="https://p325k7wa.twic.pics/high/elden-ring/elden-ring/00-page-setup/eldenring_new.png?twic=v1/resize=1600/step=10/quality=80" alt="elden_ring"></a>
 <a margin="10" href="https://bluearchive.nexon.com" target="_blank"><img margin="10px" height="40" src="https://image.librewiki.net/5/5b/Pop_logo.png" alt="mollu"></a>
