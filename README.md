@@ -3,7 +3,7 @@
 ## 이새끼 누구임 (who is this guy)
 - 응애개발자인데 진로 뭐할지 몰라서 걍 해보고싶은거 다 해보는중..
   - NOOB Developer who doesn't know what to do, so trying everything what I want to do.  
-- 서강대 컴퓨터공학과 1학년 재학중, 수학 복전 예정 
+- 서강대 컴퓨터공학과 22학번, 2023.01 기준 1학년 수료 48학점, 수학 복수전공 중
   - Majoring in **Computer Science**, minoring in **Psychology** and **Mathematics** @ Sogang Univ.  
 - Team Cluster에서 수능 물리학1, 화학2 컨텐츠 만들어요. 주변에 수능준비하는 쉄생들 있으면 [책](https://atom.ac/books/9700)[하고](https://atom.ac/books/9927) [모의고사](https://atom.ac/books/9917) 많이많이 사주샘.
   - Making CSAT(College Scholastic Ability Test, a.k.a. SAT of South Korea) contents of **Physics I, Chemistry II** @ **Team Cluster**. 
