@@ -7,7 +7,7 @@
   - Majoring in **Computer Science**, minoring in **Mathematics** @ [Sogang Univ.](https://www.sogang.ac.kr/index.do)  
 - Team Cluster에서 수능 물리학1, 화학2 컨텐츠 만들어요. 주변에 수능준비하는 쉄생들 있으면 [책](https://atom.ac/books/9700)[하고](https://atom.ac/books/9927) [모의고사](https://atom.ac/books/9917) 많이많이 사주샘.
   - Making CSAT(College Scholastic Ability Test, a.k.a. SAT of South Korea) contents of **Physics I, Chemistry II** @ **Team Cluster**. 
-- 2023.05.29 ~ 2025.02.24 대한민국 공군 복무합니다.
+- 2023.07.10 ~ 2025.04.07 대한민국 공군 복무합니다.
   - Call of duty on that period at Republic of Korea Air Force.
   
   <br>  
