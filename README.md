@@ -2,7 +2,8 @@
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playteddypicker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=playteddypicker)](https://solved.ac/playteddypicker)
-<br/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=playteddypicker)](https://solved.ac/playteddypicker)  
+  
+---  
 2023.07.10 ~ 2025.04.07 대한민국 공군 복무합니다.  
 Call of duty on that period at Republic of Korea Air Force.  
