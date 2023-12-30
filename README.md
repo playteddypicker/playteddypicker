@@ -5,5 +5,5 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=playteddypicker)](https://solved.ac/playteddypicker)  
   
 ---  
-대한민국 공군 복무 중
+대한민국 공군 복무 중  
 Call of duty at Republic of Korea Air Force.  
